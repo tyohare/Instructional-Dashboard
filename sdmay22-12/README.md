@@ -35,12 +35,3 @@ Once downloaded, navigate to src/db.R and change the "Driver" parameter to "ODBC
 
 [Mastering Shiny](https://mastering-shiny.org/index.html)
 
-## Authors
-
-Nicholas Matthews
-Joshua Caplinger
-Sam Reinart
-Jimmy Carter
-Brett Bethke
-Steven Ehler
-Tyler O'Hare
